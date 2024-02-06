@@ -1,1 +1,5 @@
-console.log('test');
+
+import pageLoad from './pageLoad '
+
+//load page 
+loadPage(); 
